@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# gitTest
-=======
-Hello, this is a test !!
->>>>>>> master
+Hello, this is a test cat README.md 
